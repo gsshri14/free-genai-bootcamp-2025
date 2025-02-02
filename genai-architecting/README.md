@@ -1,5 +1,4 @@
 # Technical Considerations
----
 Let’s assume we are following the three levels of diagramming:
 
 
